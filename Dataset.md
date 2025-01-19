@@ -20,6 +20,6 @@ This dataset includes 1440 audio files, 60 from each actor categorized into eigh
 
 8. Surprised
 
-The entire dataset is 24.8GB, the compressed version containing the audio files with lower sample rates can be found in https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKGYrJhWc8z7/view
+The entire dataset is 24.8GB, the compressed version containing the audio files with lower sample rates can be found in [dataset](https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKGYrJhWc8z7/view)
 
-Reference: https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/
+[Reference](https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/)
