@@ -2,7 +2,7 @@ For this project the Ryerson Audio-Visual Database of Emotional Speech and Song 
 
 This dataset includes audio samples from 24 different actors (12 male and 12 female).
 
-This dataset includes 7356 audio files categorized into eight emotions namely:
+This dataset includes 1440 audio files, 60 from each actor categorized into eight emotions namely:
 
 1. Neutral
 
